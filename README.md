@@ -27,7 +27,7 @@ I'll probably look back at some of my old code and wonder what the hell I was th
 
 And that's fine.
 
-I want this repository to be a place where I can keep all of it — what I'm building, what I'm learning, the experiments I'm doing, the mistakes I make, and the things I'm proud of.
+I want this repository to be a place where I can keep all of it, what I'm building, what I'm learning, the experiments I'm doing, the mistakes I make, and the things I'm proud of.
 
 I don't have some perfect five-year plan.
 
